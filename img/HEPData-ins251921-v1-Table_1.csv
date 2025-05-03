@@ -1,0 +1,29 @@
+#: table_doi: 10.17182/hepdata.30010.v1/t1
+#: name: Table 1
+#: description: Statistical errors only.
+
+#: data_file: Table1.yaml
+#: keyword reactions: E+ E- --> E+ E-
+#: keyword observables: DSIG/DOMEGA
+#: keyword phrases: Elastic | Single Differential Cross Section | E+ E- Scattering | Electron production
+#: keyword cmenergies: 52.0
+#: RE,E+ E- --> E+ E-
+#: SQRT(S) [GeV],52.0,,
+COS(THETA(P=4)),D(SIG)/D(OMEGA) [NB/SR],error +,error -
+0.953,13.3,0.67,-0.67
+0.939,7.26,0.36,-0.36
+0.923,4.87,0.25,-0.25
+0.906,3.05,0.15,-0.15
+0.7526,0.3979,0.0299,-0.0299
+0.7206,0.2997,0.0256,-0.0256
+0.6885,0.2266,0.0221,-0.0221
+0.6416,0.1837,0.0129,-0.0129
+0.5777,0.0931,0.0093,-0.0093
+0.4986,0.0724,0.0067,-0.0067
+0.4028,0.0547,0.0059,-0.0059
+0.2914,0.0381,0.0043,-0.0043
+0.1208,0.0178,0.0023,-0.0023
+-0.1055,0.0149,0.0021,-0.0021
+-0.332,0.0131,0.0019,-0.0019
+-0.589,0.009,0.0014,-0.0014
+
